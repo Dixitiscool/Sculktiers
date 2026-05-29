@@ -1,0 +1,6 @@
+{
+  "name": "Sculk Tiers Leaderboard",
+  "description": "An interactive competitive Minecraft server leaderboard themed around Sculk, featuring player tier rankings, custom category filters, responsive search, left-to-right flow animations, and a rich local administration management console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
